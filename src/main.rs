@@ -169,7 +169,7 @@ impl VelocityTracker {
 }
 
 const ITEM_H: f32 = 60.0;
-const ITEM_N: usize = 50;
+const ITEM_N: usize = 500;
 const CONTENT_H: f64 = ITEM_H as f64 * ITEM_N as f64;
 
 struct App {
